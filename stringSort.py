@@ -1,8 +1,6 @@
 # created a sort method for alphabetical sort
 
 a = []
-def stringSorted(a):
-    return sorted(a)
 
 def quickString(a):
     if not a:
@@ -13,5 +11,5 @@ def quickString(a):
 
     
 ## using this to see if the function works
-b = ["jib", "hehe"]
-print(quickString(b))
+#b = ["jib", "hehe"]
+#print(quickString(b))
