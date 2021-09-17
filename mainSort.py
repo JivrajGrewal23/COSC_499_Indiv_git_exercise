@@ -4,6 +4,8 @@ import stringSort
 
 ## creating a string array
 stringArr = ["Stalin", "Lenin", "Kris", "Zach", "Jiv", "Mike", "John"]
+print(stringArr)
+print(stringSort.stringSorted(stringArr))
 
 ## creating random number of list 
 randomList = []
