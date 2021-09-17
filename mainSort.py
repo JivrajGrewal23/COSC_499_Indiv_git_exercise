@@ -15,4 +15,4 @@ for i in range(0, 7):
     randomList.append(n)
 
 print(randomList)
-print(intSort.intSorted(randomList))
+print(intSort.intsorter(randomList))
